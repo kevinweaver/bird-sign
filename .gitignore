@@ -24,7 +24,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-.env
-.env.development
-.env.test
+/.env
+/.env.development
+/.env.test
 /config/credentials.yml.enc
